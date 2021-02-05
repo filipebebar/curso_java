@@ -1,4 +1,8 @@
-filipeteste2\filipeteste2\Filipeteste2Application.class
 model\Pessoa.class
+model\Contato.class
+controller\ContatoController.class
+filipeteste2\filipeteste2\Filipeteste2Application.class
 controller\PessoaController.class
 repository\PessoaRepository.class
+utilidades\Utilidades.class
+utilidades\BackendException.class
